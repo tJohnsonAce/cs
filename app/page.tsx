@@ -19,10 +19,10 @@ export default function Home() {
 
         <div className="space-y-4">
           <a
-            href="#"
+            href="/studyTemplates"
             className="block w-full py-2 px-4 bg-orange-500 text-white rounded-full hover:bg-orange-600"
           >
-            Link 1
+            Free Bible Study Templates
           </a>
           <a
             href="#"
